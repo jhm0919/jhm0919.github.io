@@ -7,20 +7,19 @@ title:  "Week1"
 
 1. Online compiler 에서 C언어로 Hello world 출력해보기
 
-'''c
+
 #include <stdio.h>
 int main()
 {
 	printf("Hello, World!\n");
 	return 0;
 }
-'''
 
 
 
 2. Online compiler 에서 C++언어로 Hello world 출력해보기
 
-'''c++
+
 #include <iostream>
 using namespace std;
 int main()
@@ -28,29 +27,29 @@ int main()
 	cout << "Hello World" << endl;
 	return 0;
 }
-'''
 
 
-'''c++
+
+
 #include <iostream>
 int main()
 {
 	std::cout << "Hello World!\n";
 }
-'''
+
 
 
 4. online compiler에서 C언어스타일로 내 이름 출력해보기
 
 
-'''c
+
 #include <stdio.h>
 int main()
 {
 	printf("장해민\n");
 	return 0;
 }
-'''
+
 
 
 5. online compiler에서 C++언어스타일로 내 이름 출력해보기
