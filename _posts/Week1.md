@@ -69,7 +69,7 @@ int main()
 6. 내 이름 10번 출력해보기
 
 C
-'''c
+  
 #include <stdio.h>
 int main()
 {
@@ -85,7 +85,6 @@ int main()
 	printf("10:장해민\n");
 	return 0;
 }
-'''
   
 C++
 '''c++
