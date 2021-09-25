@@ -2,7 +2,6 @@
 
 
 * Online compiler 에서 C언어로 Hello world 출력해보기
-
 ```c
 #include <stdio.h>
 int main()
@@ -13,3 +12,93 @@ int main()
 ```
 
 
+* Online compiler 에서 C++언어로 Hello world 출력해보기
+
+```c++
+#include <iostream>
+using namespace std;
+int main()
+{
+	cout << "Hello World" << endl;
+	return 0;
+}
+```
+
+```c++
+#include <iostream>
+int main()
+{
+	std::cout << "Hello World!\n";
+}
+```
+
+
+* online compiler에서 C언어스타일로 내 이름 출력해보기
+
+```c
+#include <stdio.h>
+int main()
+{
+	printf("장해민\n");
+	return 0;
+}
+```
+
+
+* online compiler에서 C++언어스타일로 내 이름 출력해보기
+
+```c++
+#include <iostream>
+using namespace std;
+int main()
+{
+	cout << "장해민" << endl;
+	return 0;
+}
+```
+
+
+내 이름 10번 출력해보기
+
+C
+
+```c
+#include <stdio.h>
+int main()
+{
+	printf(" 1:장해민\n");
+	printf(" 2:장해민\n");
+	printf(" 3:장해민\n");
+	printf(" 4:장해민\n");
+	printf(" 5:장해민\n");
+	printf(" 6:장해민\n");
+	printf(" 7:장해민\n");
+	printf(" 8:장해민\n");
+	printf(" 9:장해민\n");
+	printf("10:장해민\n");
+	return 0;
+}
+```
+
+C++
+
+```c++
+#include <iostream>
+using namespace std;
+int main()
+{
+	cout << " 1:장해민" << endl;
+	cout << " 2:장해민" << endl;
+	cout << " 3:장해민" << endl;
+	cout << " 4:장해민" << endl;
+	cout << " 5:장해민" << endl;
+	cout << " 6:장해민" << endl;
+	cout << " 7:장해민" << endl;
+	cout << " 8:장해민" << endl;
+	cout << " 9:장해민" << endl;
+	cout << "10:장해민" << endl;
+	return 0;
+}
+```
+
+######C++프로그래밍(21-2학기)한성현교수 강의 내용 변형 및 요약
