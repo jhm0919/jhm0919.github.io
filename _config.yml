@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "201809065 장해민"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "장해민"
 description              : "An amazing website."
 url                      : "https://jhm0919.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
